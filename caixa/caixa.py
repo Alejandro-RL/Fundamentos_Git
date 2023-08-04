@@ -15,7 +15,7 @@ def caixa(valor):
     
 
     for i in range(len(notas)):
-        print(f"{qtde[i]} notas de {notas[i]} Reais")
+        print(f"{qtde[i]} notas de {notas[i]} Dólar(es)")
         
 
 
